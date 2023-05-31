@@ -1,0 +1,3 @@
+freeSurfaceFluxFoam.C
+
+EXE = $(FOAM_USER_OWN_APPBIN)/freeSurfaceFluxFoam
