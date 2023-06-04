@@ -1,4 +1,0 @@
-SOURCE = \
-freeSurfaceFluxFoam.C \
-
-# sources
